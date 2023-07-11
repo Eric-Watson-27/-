@@ -15,3 +15,33 @@ nikitahabarov26@gmail.com
 https://vk.com/theghost20
 
 Мои проекты
+
+Проект 1: Курсовая работа
+
+Что нужно было сделать: 
+Сделать тест-план
+Подготовить тестовую документацию
+Провести тестирование
+Написать отчет
+
+Ссылка:
+
+https://ghost.atlassian.net/wiki/spaces/~6333f9f9b2e3c5ad0fa4d83a/pages/917505/1-2
+
+Логин: nikitahabarov26@gmail.com
+Пароль: nikitaghost23
+
+Проект 2: Диплом
+
+Что нужно было сделать: 
+Сделать тест-план
+Подготовить тестовую документацию
+Провести тестирование
+Написать отчет
+
+Ссылка:
+
+https://ghost.atlassian.net/wiki/spaces/~6333f9f9b2e3c5ad0fa4d83a/pages/18743297
+
+Логин: nikitahabarov26@gmail.com
+Пароль: nikitaghost23
