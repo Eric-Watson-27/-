@@ -6,7 +6,7 @@
 
 ## Инструменты
 
-Jira, qase.io, Postman, Trello, Chrome DevTools, Confluence, Miro и прочие инструменты для тестирования.
+Jira, qase.io, Postman, Trello, Chrome DevTools, Confluence, Miro.
 
 ## Мои контакты
 
